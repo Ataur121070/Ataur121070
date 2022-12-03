@@ -1,12 +1,19 @@
 <table>
 <tr>
-<td>Row1-Column 1 </td>
-<td>Row1-Column 2 </td>
+<td>sl.no</td>
+<td>name</td>
+<td>addess</td>
 </tr>
 <tr>
-<td>Row 2-Column 1</td>
-<td>Row 2-Column 1 </td>
-<td>Row1-Column 2 </td>
+<td>01</td>
+<td>Adiba</td>
+<td>salanandar</td>
 </tr>
-</table>
+<tr>
+<td>02</td>
+<td>ataur</td>
+<td>parbatipur</td>
+</tr>
+<table>
+
 
