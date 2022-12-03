@@ -1,3 +1,0 @@
-<doc.html>
-<html>
-<head>
